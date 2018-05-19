@@ -1,0 +1,1 @@
+sudo apt install git ubuntu-restricted-extras docker.io gnome-tweak-tool ldap-utils default-jdk
